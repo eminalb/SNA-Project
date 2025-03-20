@@ -69,7 +69,7 @@ The dataset used in this project is a text file (friends_episodes.txt) containin
 
 
 ## Code Overview
-The project is implemented in a Jupyter Notebook (SNA_Project_Group_K.ipynb). The notebook is divided into sections corresponding to each week's tasks, with detailed explanations and code snippets.
+The project is implemented in a Jupyter Notebook (Main.ipynb). The notebook is divided into sections corresponding to each week's tasks, with detailed explanations and code snippets.
 
 ## Key Functions
 
